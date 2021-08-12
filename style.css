@@ -11,6 +11,11 @@ table{
 th{
     font-weight: 700;
 }
+h1{
+    text-align: center;
+    font: bolder;
+    font-style: italic;
+}
 h4{
     font-family: Comic sans, Comic sans MS, Cursive;
 }
